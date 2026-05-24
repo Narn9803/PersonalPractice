@@ -13,3 +13,5 @@ var x = 5;
 // let hoisting
 console.log(y); // ReferenceError
 let y = 10;
+
+console.log("Hello");
