@@ -30,5 +30,5 @@ do {
 } while (ind2 < obj.length);
 
 obj.forEach(element => {
-    console.log("foreach", element)
+    console.log("foreach1", element)
 }); 
