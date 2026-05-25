@@ -14,8 +14,9 @@
 
 //Dense Array
 
-// let a1 = [1,2,3,4,5]; //contigous memory
+let a1 = [1,2,3,4,5]; //contigous memory
+console.log("a1", a1);
 
 // // Sparse array
-// let a2 = [3,,2,,5,6]; //hash table or hash map
-// console.log(a1,a2);
+let a2 = [3,,2,,5,6]; //hash table or hash map
+console.log("a2", a2);
