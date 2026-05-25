@@ -9,10 +9,10 @@ console.log("vval", vval);
 
 //Array Constructor
 // let arr = new Array();
-// arr[0] = "Good";
-// arr[1] = "Bad";
-// arr[2] = "Ugly";
-// console.log("array", arr[arr.length-3]);
+arr[0] = "Good";
+arr[1] = "Bad";
+arr[2] = "Ugly";
+console.log("array", arr[arr.length-3]);
 
 //Dense Array
 let a1 = [1,2,3,4,5]; //contigous memory
