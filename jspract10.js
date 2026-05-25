@@ -8,7 +8,7 @@ let vval = sampleArr[sampleArr.length-1].id;
 console.log("vval", vval);
 
 //Array Constructor
-// let arr = new Array();
+let arr = new Array();
 arr[0] = "Good";
 arr[1] = "Bad";
 arr[2] = "Ugly";
