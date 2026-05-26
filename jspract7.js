@@ -104,7 +104,7 @@ let i =1;
 
 // console.log(rev);
 
-//destructuring
+//destructuring logics
 let user = {
   name: "Narn",
   age: "27", 
