@@ -104,6 +104,7 @@ let i =1;
 
 // console.log(rev);
 
+//destructuring
 let user = {
   name: "Narn",
   age: "27", 
