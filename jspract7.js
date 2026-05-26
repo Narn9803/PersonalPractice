@@ -104,7 +104,7 @@ let i =1;
 
 // console.log(rev);
 
-//destructuring logics
+//destructuring logics eg.UserObj
 let user = {
   name: "Narn",
   age: "27", 
