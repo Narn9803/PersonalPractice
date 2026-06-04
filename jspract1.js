@@ -14,7 +14,7 @@ for (const element of obj) {
 }
 
 for (const key in obj) {
-    console.log("forin1", obj[key]);    
+    console.log("forin", obj[key]);    
 }
 
 var ind = 0;
