@@ -1,5 +1,5 @@
 let flavours = ["Vanila", "ButterScoch", "Strawberry", "Mango"];
-console.log("flavours "+ flavours[flavours.length-2]);
+console.log("flavours", flavours[flavours.length-2]);
 
 let sampleArr = ["Choc", true, null, 1212, {id:2}];
 console.log("sampleArr", sampleArr[sampleArr.length-1]);
@@ -8,7 +8,7 @@ let vval = sampleArr[sampleArr.length-1].id;
 console.log("vval", vval);
 
 //Array Constructor
-// let arr = new Array();
+let arr = new Array();
 arr[0] = "Good";
 arr[1] = "Bad";
 arr[2] = "Ugly";
