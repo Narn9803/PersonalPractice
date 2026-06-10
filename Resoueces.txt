@@ -1,0 +1,30 @@
+MDN Web Docs — developer.mozilla.org
+The absolute gold standard. Written and maintained by Mozilla, it covers every HTML tag and CSS property in depth with examples. This is what professionals use daily as a reference. Start here and never leave.
+The Odin Project — theodinproject.com
+Completely free and project-based — it teaches the way real dev work actually happens, with strong community support for self-directed learners. Highly recommended for anyone serious about becoming a developer. Scrimba
+freeCodeCamp — freecodecamp.org
+Offers an extensive HTML & CSS curriculum with free certifications. Their 11-hour HTML & CSS course on YouTube (by John Smilga) teaches everything from scratch and prepares you to build your own projects. Placement Preparation
+Kevin Powell on YouTube
+One of the best free CSS-focused resources available. Kevin is considered one of the best CSS teachers on the internet — especially strong on Flexbox, Grid, and responsive design. Scrimba
+javascript.info (for JS later)
+Not HTML/CSS, but bookmark it now for when you move to JavaScript.
+
+
+What to Actually Learn (Topic Checklist)
+HTML
+
+Semantic tags (header, main, section, article, nav, footer)
+Forms and inputs
+Tables, lists, media (img, video, audio)
+Accessibility basics (alt text, ARIA labels)
+HTML5 features
+
+CSS
+
+Box model, margin, padding, border
+Flexbox (must master this)
+CSS Grid (must master this)
+Responsive design and media queries
+CSS variables and custom properties
+Transitions and animations
+Pseudo-classes and pseudo-elements
