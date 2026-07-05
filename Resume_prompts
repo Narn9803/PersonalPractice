@@ -1,0 +1,41 @@
+PROMPT 1: Tailor Your Resume to the Job
+-------------------
+Reply in plain text only. Do not generate any files. Do not use any tools.
+
+Tailor this resume to match the job description below. Rewrite the professional summary to align with the role. Update and reorder bullet points to highlight the most relevant experience and keywords from the job description. Keep the same structure and formatting. ATS friendly.
+
+At the end add a short note explaining what you changed and why. Flag anything that looks inaccurate or overstated.
+
+Job Description:
+
+PROMPT 2: Convert to PDF
+-------------------
+Now convert this to a downloadable PDF. One page, Letter size. Clean professional formatting. ATS friendly — no tables, no columns, no graphics. Use the same section order and structure.
+
+PROMPT 3: Resume Building
+---------------------
+
+Expand the bullet points, write a professional summary, keep it ATS friendly, clean bold formatting, balanced spacing throughout, fill the full Letter size page.
+
+Name: [Your Full Name] | [[your.email@example.com](mailto:your.email@example.com)] | [Your Phone Number] | [Your City] | [LinkedIn URL]
+
+Experience:
+[Job Title] at [Company Name], [Start Date] to [End Date]
+[responsibility or achievement]
+[responsibility or achievement]
+[responsibility or achievement]
+[Job Title] at [Company Name], [Start Date] to [End Date]
+[responsibility or achievement]
+[responsibility or achievement]
+
+Skills: [List your technical and soft skills separated by commas]
+
+Education: [Degree], [University Name], [Graduation Year]
+
+Certifications:
+[Certification Name]
+[Certification Name]
+
+Projects:
+[Project Name] — [brief one line description]
+[Project Name] — [brief one line description]
